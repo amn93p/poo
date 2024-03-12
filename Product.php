@@ -1,3 +1,5 @@
+<title><?php $title = 'Products 1';
+        echo $title; ?></title>
 <?php
 
 class Product
