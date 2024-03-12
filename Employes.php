@@ -29,7 +29,6 @@ $employe1 = new Employe("Dupont", "Développeur", 2500);
 $employe2 = clone $employe1;
 
 
-echo "<img src='https://media.posterlounge.com/img/products/760000/757332/757332_poster.jpg' height='150'><br>";
 echo "<b>Employé 1: </b>" . $employe1 . " ";
 echo "<br><br>";
 echo "<b>Employé 2: </b>" . $employe2 . " ";
